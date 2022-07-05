@@ -8,7 +8,7 @@
 | Flutter Driver | Mobile | [LINK!](https://github.com/maximilianoalves/tabela_fipe_flutter) | https://github.com/maximilianoalves/tabela_fipe_flutter/blob/main/README.md
 | HttParty | API | Ruby | [LINK!](https://github.com/maximilianoalves/httparty_rspec) | https://github.com/maximilianoalves/httparty_rspec/blob/main/README.md
 | K6 | API - Performance | JavaScript | [LINK!](https://github.com/maximilianoalves/k6-arch-example) | https://github.com/maximilianoalves/k6-arch-example/blob/main/README.md  
-| Karate | API - GraphQL | [LINK!](https://github.com/maximilianoalves/karate-graphql) | https://github.com/maximilianoalves/karate-graphql/blob/main/README.md 
+| Karate | API - GraphQL | Java | [LINK!](https://github.com/maximilianoalves/karate-graphql) | https://github.com/maximilianoalves/karate-graphql/blob/main/README.md 
 | Playwright | UI | JavaScript | [LINK!](https://github.com/maximilianoalves/playwright-js-arch-ui-test) | https://github.com/maximilianoalves/playwright-js-arch-ui-test/blob/main/README.md 
 | Rest Assured | API | Java | [LINK!](https://github.com/maximilianoalves/restassured-arch-example) | https://github.com/maximilianoalves/restassured-arch-example/blob/main/README.md  
 | Selenium Cucumber | UI | Java | [LINK!](https://github.com/maximilianoalves/multisites-cucumber-automation) | https://github.com/maximilianoalves/multisites-cucumber-automation/blob/main/README.md
